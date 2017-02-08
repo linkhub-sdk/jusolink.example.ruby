@@ -1,0 +1,2 @@
+module JusolinkHelper
+end
